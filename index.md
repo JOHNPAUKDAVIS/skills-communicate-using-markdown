@@ -1,2 +1,2 @@
-# My name is johnny
+# Welcome to "Communicate using Markdown"! 👋
 I am a professional
